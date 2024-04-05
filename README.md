@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Xocth
-#### I am a Cybersec student
-#This profile is used to track my progress with programming languages
-#I currently learning: Python and C#
-#I'm going to learn: HTML,CSS and JavaScript
-#I will after like to learn: C++ and SQL
+## Hi there 👋, my name is Xocth
+I am a Cybersec student who is currently learning Excel and C#
+## This profile is used to track my progress with programming languages
+## I currently learning: Python and C#
+## I'm going to learn: HTML,CSS and JavaScript
+## After I would like to learn: C++ and SQL
 
 
 
