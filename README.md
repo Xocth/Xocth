@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Xocth
+## Hi there 👋, my name is Daniel
 
 
 ### This profile is used to track my progress with programming languages
