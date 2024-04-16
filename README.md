@@ -10,5 +10,4 @@
 
          
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xocth&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xocth)](https://github.com/anuraghazra/github-readme-stats)
-About Me: I am a Cybersec student who is currently learning Excel and the fundamentals of computing while also learning Linux in my free time 
-##
+About Me: I am a Cybersec student who is currently learning the basics of computing and cybersecurity
