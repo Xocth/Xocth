@@ -11,3 +11,6 @@
          
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xocth&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xocth)](https://github.com/anuraghazra/github-readme-stats)
 About Me: I am a student who is currently learning the basics of information technology and cybersecurity
+
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Xocth.png)](https://tryhackme.com/p/Xocth)
