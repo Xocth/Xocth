@@ -6,10 +6,6 @@
 
 ## I would like to learn: ![Bootstrap](https://img.shields.io/badge/-Bash/Shell-05122A?style=flat&logo=Bash/Shell&color=353535) ![Bootstrap](https://img.shields.io/badge/Rust-orange?style=flat&logo=Rust)
 
-
-       
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xocth&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xocth)](https://github.com/anuraghazra/github-readme-stats)
-
-
+# ![Xocth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xocth&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Xocth.png)](https://tryhackme.com/p/Xocth)
