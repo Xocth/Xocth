@@ -1,7 +1,17 @@
-## I would like to learn: ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=FFFF00) ![Bootstrap](https://img.shields.io/badge/--05122A?style=flat&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bash/Shell-05122A?style=flat&logo=Bash/Shell&color=353535)  ![Bootstrap](https://img.shields.io/badge/Rust-orange?style=flat&logo=Rust) 
+# IT/Cyber Enthusiast | Cloud/DevOps | Embedded Systems Hobbyist
+## 🛠️ Hands-on experience with Linux, Networking, Virtualization, and Security Tools
+## 📚 Currently learning Rust to strengthen my systems programming and security skills
+## 💡 Passionate about automation, open-source projects, and continuous learning
 
-# ![Xocth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xocth&theme=dark&show_icons=true&hide_border=true&layout=compact)
+# Languages  
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,bash,html,css,js,)](https://skillicons.dev)
 
-# [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Xocth.png)](https://tryhackme.com/p/Xocth)
+# Systems
+[![My Skills](https://skillicons.dev/icons?i=debian,arch,ubuntu,arduino,docker,raspberrypi)](https://skillicons.dev)
 
-CyberHunter is a game I made in Gloucestershire College and was featured in the Cheltenham Science Festival 
+# Other 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Xocth.png)](https://tryhackme.com/p/Xocth)
+
+> CyberHunter is a game I made in my Gloucestershire College Level 3 course and was featured in the Cheltenham Science Festival
+> 
+>![Xocth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xocth&layout=compact&theme=shadow_green)
