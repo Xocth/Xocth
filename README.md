@@ -1,4 +1,4 @@
-# IT/Cyber Enthusiast | Cloud/DevOps | Embedded Systems Hobbyist
+# IT/Cyber | Cloud/DevOps | Embedded Systems Hobbyist
 ## 🛠️ Hands-on experience with Linux, Networking, Virtualization, and Security Tools
 ## 📚 Currently learning Rust to strengthen my systems programming and security skills
 ## 💡 Passionate about automation, open-source projects, and continuous learning
