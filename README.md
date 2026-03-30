@@ -1,5 +1,4 @@
 ### Interests: IT/Cyber, Cloud/DevOps, Embedded Systems
----
 
 🛠️ Hands-on experience with Linux, networking, virtualization and security tools
 
@@ -16,12 +15,12 @@
 	<img src="https://skillicons.dev/icons?i=debian,arch,ubuntu,arduino,docker,raspberrypi" height="38" alt="Systems" />
 </a>
 
-## Other 
+### Other 
 <a href="https://tryhackme.com/p/Xocth">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/Xocth.png" height="62" alt="TryHackMe" />
 </a>
 
-> CyberHunter is a game I made in my Gloucestershire College Level 3 course and was featured in the Cheltenham Science Festival
->>This project is based on the 1983 Bally Midway game Spy Hunter and incorporates cybersecurity and internet safety questions.
+### CyberHunter 
+> is a game I made in my Gloucestershire College Level 3 course and was featured in the Cheltenham Science Festival
+This project is based on the 1983 Bally Midway game Spy Hunter and incorporates cybersecurity and internet safety questions.
 
-![Xocth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xocth&layout=compact&theme=shadow_green)
