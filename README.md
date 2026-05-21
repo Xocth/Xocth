@@ -22,23 +22,15 @@ $ cat about.txt
 ### 🔨 Primary
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell" height="38" alt="Python, Rust, Bash, PowerShell" />
+    <img src="https://skillicons.dev/icons?i=python,rust,windows,linux,bash,powershell" height="38" alt="Python, Rust, Bash, PowerShell" />
   </a>
 </p>
 
 ### 📚 Also Know
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,sql" height="38" alt="C, C++, HTML, CSS, SQL" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,arduino,raspberrypi" height="38" alt="C, C++, HTML, CSS," />
   </a>
-</p>
-
-### 🖥️ Systems & Platforms
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,debian,arch,ubuntu,arduino,raspberrypi" height="38" alt="Windows, Debian, Arch, Ubuntu, Arduino, Raspberry Pi" />
-  </a>
-</p>
 
 ### 📖 Learning Next
 <p>
