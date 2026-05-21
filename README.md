@@ -55,9 +55,6 @@ Purpose    →  Internet safety awareness & education
 Showcase   →  Cheltenham Science Festival
 ```
  
- 
-
----
 
 
 ## Current Focus
@@ -71,9 +68,6 @@ current_goals = [
 ]
 ```
 
----
-
-## Other
 
 <p>
   <a href="https://tryhackme.com/p/Xocth">
