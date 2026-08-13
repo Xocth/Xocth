@@ -6,13 +6,13 @@ Daniel Rufino
 
 $ cat about.txt
 ```
- Enthusiast focused on the intersection of **information technology**, **cybersecurity**, **cloud**, **coding**, and **emerging tech** 
+ Enthusiast focused on the intersection of **cybersecurity**, **cloud**, **coding**, and **emerging tech** 
 > currently building skills through labs, projects, and hands-on experimentation .
 
 - 🎓 **Educational Background:** Level 3 Extended Diploma in Cybersecurity & IT
-- 🔐 **Tech Interests:** Cybersecurity · Cloud Infrastructure · DevOps · Emerging tech such as AI/ML, Quantum and more
+- 🔐 **Tech Interests:** Cybersecurity · Intelligence/OSINT · Cloud Infrastructure · DevOps · Emerging tech such as AI/ML, Quantum and more
 - 🛠️ **Learning:** Homelab/VMs, TryHackMe labs, coding, and embedded systems tinkering
-- 🎯 **Career Direction:** Security Engineering · DevSecOps · AI/Quantum Security
+- 🎯 **Possible Career Direction:** Security Engineering · DevSecOps · AI/Quantum Security
 - 💡 **Values:** Open-source, continuous learning, building things that matter
 
 ---
