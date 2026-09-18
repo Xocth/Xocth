@@ -6,7 +6,7 @@ Daniel Rufino
 
 $ cat about.txt
 ```
- Enthusiast focused on the intersection of **cybersecurity**, **cloud**, **coding**, and **emerging tech** 
+ University student focused on the intersection of **cybersecurity**, **cloud**, **coding**, and **emerging tech** 
 > currently building skills through labs, projects, and hands-on experimentation .
 
 - 🎓 **Educational Background:** Level 3 Extended Diploma in Cybersecurity & IT
@@ -19,20 +19,34 @@ $ cat about.txt
 
 ## Tech Stack
 
-### 🔨 Primary
+### 🔨 Current primary focus
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,rust,windows,linux,bash,powershell" height="38" alt="Python, Rust, Bash, PowerShell" />
   </a>
 </p>
 
-### 📚 Also Know
+### 📚 Messed around with
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,arduino,raspberrypi" height="38" alt="C, C++, HTML, CSS," />
   </a>
 
-### 📖 Learning Next
+### 🎓 Learning / Further developing skills in Uni
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,go,c" height="38" />
+  </a>
+</p>
+
+### 📖 Plan on Learning 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tauri,ts,js,npm,svelte,react "height="38" />
+  </a>
+
+
+### 📖 Interested in Learning 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,terraform,azure,kubernetes,githubactions,tensorflow,pytorch" height="38" alt="AWS, Docker, Terraform, Azure, Kubernetes, GitHub Actions, TensorFlow, PyTorch" />
@@ -61,10 +75,13 @@ Showcase   →  Cheltenham Science Festival
 
 ```python
 current_goals = [
-    "Deepen Rust and shell scripting skills",
-    "Further improve homelab (Proxmox, Windows server + additional services)",
-    "Earn relevant certifications/skills",
-    "Explore/research AI and security ",
+
+ "Balance Uni and on the side coding",
+ "Pentesting/CTFs"
+ "Learn how cloud systems function",
+ "Containers and Devops"
+ "Explore AI, other emerging tech and implementing security for it",
+
 ]
 ```
 
