@@ -22,34 +22,34 @@ $ cat about.txt
 ### 🔨 Current primary focus
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,windows,linux,bash,powershell" height="38" alt="Python, Rust, Bash, PowerShell" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,debian,docker" height="38" alt="Python, Rust, Bash, PowerShell" />
   </a>
 </p>
 
 ### 📚 Messed around with
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,arduino,raspberrypi" height="38" alt="C, C++, HTML, CSS," />
+    <img src="https://skillicons.dev/icons?i=c,rust,html,css,arduino,raspberrypi,arch" height="38" alt="C, C++, HTML, CSS," />
   </a>
 
 ### 🎓 Learning / Further developing skills in Uni
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,go,c" height="38" />
+    <img src="https://skillicons.dev/icons?i=python,bash,go,cpp" height="38" />
   </a>
 </p>
 
 ### 📖 Plan on Learning 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,ts,js,npm,svelte,react "height="38" />
+    <img src="https://skillicons.dev/icons?i=ts,js, "height="38" />
   </a>
 
 
 ### 📖 Interested in Learning 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,terraform,azure,kubernetes,githubactions,tensorflow,pytorch" height="38" alt="AWS, Docker, Terraform, Azure, Kubernetes, GitHub Actions, TensorFlow, PyTorch" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,githubactions,tensorflow,pytorch,tauri" height="38" alt="AWS, Docker, Terraform, Azure, Kubernetes, GitHub Actions, TensorFlow, PyTorch" />
   </a>
 </p>
 
